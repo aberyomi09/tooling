@@ -71,4 +71,4 @@ Default web root:
 /usr/share/nginx/html
 ```
 
-## This is a test line to test publish over ssh into NFS Server
+## This is a sample test line to test publish over ssh into NFS Server
